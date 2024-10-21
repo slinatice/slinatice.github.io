@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://slinatice.github.io/slinatice.txt.gz
+Sitemap: https://slinatice.github.io/app/slinatice.txt.gz
+Sitemap: https://slinatice.github.io/assets/slinatice.txt.gz
+Sitemap: https://slinatice.github.io/css/slinatice.txt.gz
+Sitemap: https://slinatice.github.io/includes/slinatice.txt.gz
+Sitemap: https://slinatice.github.io/item/slinatice.txt.gz
+Sitemap: https://slinatice.github.io/src/slinatice.txt.gz
